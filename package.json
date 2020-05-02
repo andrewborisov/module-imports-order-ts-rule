@@ -1,6 +1,6 @@
 {
   "name": "module-imports-order-ts-rule",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "TSLint rule to keep your imports in far-close order",
   "main": "index.js",
   "scripts": {
@@ -10,14 +10,14 @@
   "author": "Andrei Borisov",
   "license": "ISC",
   "devDependencies": {
-    "@types/jest": "^24.0.12",
-    "@types/node": "^12.0.0",
+    "@types/jest": "^24.9.1",
+    "@types/node": "^12.12.37",
     "chalk": "^2.4.2",
-    "jest": "^24.8.0",
-    "ts-jest": "^24.0.2",
-    "tslint": "^5.16.0",
-    "tsutils": "^3.10.0",
-    "typescript": "^3.4.5"
+    "jest": "^24.9.0",
+    "ts-jest": "^24.3.0",
+    "tslint": "^5.20.1",
+    "tsutils": "^3.17.1",
+    "typescript": "^3.8.3"
   },
   "jest": {
     "moduleFileExtensions": [
